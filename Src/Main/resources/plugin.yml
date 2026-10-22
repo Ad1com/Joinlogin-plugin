@@ -1,1 +1,5 @@
-
+name: JoinLogin
+version: 1.0.0
+main: com.example.joinlogin.JoinLoginPlugin
+api-version: '1.21.11'
+description: Register/login dialog shown before the player enters the server.
